@@ -1,4 +1,5 @@
 #Lovt
+#Não é parte do projeto integrador, mas uma boa atividade!
 
 <div class="images" align="center">
 <img width="50%" alt="Screenshot_1" src="https://user-images.githubusercontent.com/95445253/159077389-c9ef041f-fa36-4919-a922-cdcb1ca28c93.png">
