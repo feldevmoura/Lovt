@@ -26,8 +26,13 @@ h1{
 }
 
 .posLogo {
+  font-size: 1.2rem;
   margin-top: 0.7%;
   margin-left: 0.4%;
+}
+
+.loft {
+  margin-top: 0;
 }
 
 h2 {
@@ -40,6 +45,7 @@ h2 {
 
 .image0 {
   margin-left: 86%;
+  cursor: pointer;
 }
 
 .image1 {
@@ -47,6 +53,48 @@ h2 {
   margin-top: 2%;
   margin-bottom: 4%;
   width: 91%;
+  position: relative;
+}
+
+.EllipseLeft {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 6.2%;
+  margin-top: -26.8%;
+  margin-left: 5.9%;
+  cursor: pointer;
+}
+
+.EllipseRight {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 6.2%;
+  margin-top: -26.8%;
+  margin-left: 87%;
+  cursor: pointer;
+}
+
+.LeftArrow img {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 1.7%;
+  margin-top: -25.5%;
+  margin-left: 7.7%;
+  cursor: pointer;
+
+}
+
+.RightArrow img {
+  position: absolute;
+  color: white;
+  text-align: center;
+  width: 1.7%;
+  margin-top: -25.5%;
+  margin-left: 89%;
+  cursor: pointer;
 }
 
 .caixas {
@@ -87,7 +135,7 @@ h2 {
   height: 20%;
   font-size: 190% ;
   margin-right: 10%;
-  border-radius: 20.5px;
+  border-radius: 20.5vh;
 }
 
 .texto3 {
@@ -131,7 +179,7 @@ h2 {
   height: 20%;
   font-size: 190% ;
   margin-right: 10%;
-  border-radius: 20.5px;
+  border-radius: 20.5vh;
 }
 
 .texto6 {
@@ -143,7 +191,7 @@ h2 {
 }
 
 .texto7 {
-  margin-top: 5%;
+  margin-top: 9%;
   color: #888888;
   text-align: center;
   font-size: 280%;
@@ -170,11 +218,23 @@ h2 {
 }
 
 .texto8 {
-  font-size: 150%;
+  font-size: 300%;
   margin-right: 10%;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 43%;
+}
+
+.industrialImage {
+  filter: opacity(60%);
+}
+
+.modernImage {
+  filter: opacity(60%);
+}
+
+.classicImage {
+  filter: opacity(60%);
 }
 
 .container2 {
@@ -191,11 +251,11 @@ h2 {
 }
 
 .texto9 {
-  font-size: 150%;
+  font-size: 300%;
   margin-right: 10%;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 45%;
 }
 
 .container3 {
@@ -212,11 +272,11 @@ h2 {
 }
 
 .texto10 {
-  font-size: 150%;
+  font-size: 300%;
   margin-right: 10%;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 46%;
 }
 
 .caixa3 {
@@ -263,17 +323,26 @@ h2 {
   margin-top: 12%;
 }
 
+.socialMedias img {
+  width: 6vh;
+}
+
 .socialIcons {
   display: flex;
 }
 
 .InstagramIcon {
-  margin-right: 17%;
+  margin-top: 4%;
+  margin-right: 9.5%;
 }
 
 .FacebookIcon {
-  margin-right: 17%;
+  margin-top: 4%;
+  margin-right: 9.5%;
 }
 
+.WhatsappIcon {
+  margin-top: 4%;
+}
 
 
