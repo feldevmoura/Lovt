@@ -2,8 +2,9 @@
 <br><h2 align="center">Não é parte do projeto integrador, mas uma boa atividade!</h2>
 
 <div class="images" align="center">
-  <img width="50%" alt="Screenshot_1" src="https://user-images.githubusercontent.com/95445253/160217621-10719c37-bcda-45fa-8ef5-60ea243465a4.png">
-  <img width="50%" alt="Screenshot_2" src="https://user-images.githubusercontent.com/95445253/159077395-ca5694f6-557b-4978-8a3e-b70b64af8689.png">
-  <img width="50%" alt="Screenshot_3" src="https://user-images.githubusercontent.com/95445253/160217666-084ca96b-2347-4f36-a61e-8ac31bcafb42.png">
-  <img width="50%" alt="Screenshot_4" src="https://user-images.githubusercontent.com/95445253/160217711-d5b077b5-dbe1-476c-9b2d-4ba96c061a2a.png">
+  <img width="50%" alt="Screenshot_1" src="https://user-images.githubusercontent.com/95445253/163901847-67dfa584-d8c4-48ba-800f-a3e29391d37b.png">
+  <img width="50%" alt="Screenshot_2" src="https://user-images.githubusercontent.com/95445253/163901961-1046932d-aeed-40d6-8984-9f2ef0ab283a.png">
+  <img width="50%" alt="Screenshot_3" src="https://user-images.githubusercontent.com/95445253/163902099-d0d77bb6-665d-46ad-8a9b-b328ba24acbd.png">
+  <img width="50%" alt="Screenshot_4" src="https://user-images.githubusercontent.com/95445253/163902280-d87e62bb-4901-4022-bf0b-f2b9c07c8432.png">
 </div>
+
